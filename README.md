@@ -24,6 +24,8 @@ A simple Tweet Poster app built using React.
 
 [API](https://thesimpsonsquoteapi.glitch.me/quotes)
 
+Hosted On [Netlify](https://www.netlify.com/)
+
 [Check it Working](https://react-tweet-poster.netlify.com/)
 
 [Repo](https://github.com/maddyBoy/react-tweet-poster/)

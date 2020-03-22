@@ -8,7 +8,7 @@ A progress bar is made using css and js.
 
 ![Progress Bar](./assets/progress-bar.png)
 
-##  Don't Laugh Challenge 
+##  Don't Laugh Challenge
 
 Random joke generator using css and js.
 
@@ -18,7 +18,7 @@ Random joke generator using css and js.
 
 ![Random Joke](./assets/Random-jokes-inrsaurabh.gif)
 
-##  Tweet Poster 
+##  Tweet Poster
 
 A simple Tweet Poster app built using React.
 
@@ -31,3 +31,11 @@ Hosted On [Netlify](https://www.netlify.com/)
 [Repo](https://github.com/maddyBoy/react-tweet-poster/)
 
 ![Random Quote](./assets/Quote-poster-inrsaurabh.gif)
+
+##  Dark Mode
+
+Dark Mode using css and Js.
+
+[Check it Working](https://codepen.io/inrsaurabh/pen/yLNxXgY)
+
+![Random Quote](./assets/Night-Mode-pure-css.gif)

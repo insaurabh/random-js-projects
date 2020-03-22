@@ -39,3 +39,15 @@ Dark Mode using css and Js.
 [Check it Working](https://codepen.io/inrsaurabh/pen/yLNxXgY)
 
 ![Random Quote](./assets/Night-Mode-pure-css.gif)
+
+
+##  Canvas Game
+
+A very simple game on canvas created by watching video on udemy.
+
+Hosted On [Netlify](https://www.netlify.com/)
+
+[Check it Working](https://tennis-canvas.netlify.com/)
+
+[Repo](https://github.com/maddyBoy/canvas-game-udemy/)
+

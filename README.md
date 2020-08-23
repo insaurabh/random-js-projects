@@ -28,7 +28,7 @@ Hosted On [Netlify](https://www.netlify.com/)
 
 [Check it Working](https://react-tweet-poster.netlify.com/)
 
-[Repo](https://github.com/maddyBoy/react-tweet-poster/)
+[Repo](https://github.com/insaurabh/react-tweet-poster/)
 
 ![Random Quote](./assets/Quote-poster-inrsaurabh.gif)
 
@@ -47,7 +47,20 @@ A very simple game on canvas created by watching video on udemy.
 
 [Check it Working](https://tennis-canvas.netlify.com/)
 
-[Repo](https://github.com/maddyBoy/canvas-game-udemy/)
+[Repo](https://github.com/insaurabh/canvas-game-udemy/)
 
 ![Canvas Game](./assets/Canvas-game.gif)
+
+
+##  Map Highlighter ( svg )
+
+A very simple svg map highlighter using js.
+
+[Check it Working](https://map-highlighter.netlify.app/)
+
+[Repo](https://github.com/insaurabh/map-highlighter)
+
+![Map Highlighter](./assets/map-highlighter.gif)
+
+
 

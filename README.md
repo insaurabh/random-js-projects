@@ -60,10 +60,18 @@ A very simple svg map highlighter using js.
 
 ![Map Highlighter](./assets/map-highlighter.gif)
 
-## AirBnB Clone ( NextJs with Zustand)
+## AirBnB Clone ( NextJs with Zustand : inProgress)
 
 Working on AirBnB clone to explore NextJs and Zustand
 
 [Check it Working](https://airbnb-clone-inrsaurabh.vercel.app/)
 
 [Repo](https://github.com/insaurabh/airbnb)
+
+## Autosuggestion in core js
+
+Simple auto suggestion in core js, with a mock server, followed [YTVideo](https://www.youtube.com/watch?v=_XOToOfrwtc)
+
+[Check it Working](https://csb-xmc2wj.netlify.app/)
+
+[Repo](https://codesandbox.io/s/auto-suggestion-in-core-js-xmc2wj)
